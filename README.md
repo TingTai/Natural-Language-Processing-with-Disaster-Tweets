@@ -1,7 +1,7 @@
 # Natural-Language-Processing-with-Disaster-Tweets
 
 ## Problem description
-Kaggle NLP competition 'Natural Language Processing with Disaster Tweets', the main problem to predict if tweets describe disaster really, yes is 1 and no is 0, so it is binary classification problem. Original dataset is balanced, and the ratio of 0 and 1 is 4:3. However, according to real-world situation, I change the dataset to be imbalanced. And the final ratio of 0 and 1 is 10:1.
+Kaggle NLP competition 'Natural Language Processing with Disaster Tweets'. The main problem is to predict if tweets describe disaster really, yes is 1 and no is 0, so it is binary classification problem. Original dataset is balanced, and the ratio of 0 and 1 is 4:3. However, according to real-world situation, I change the dataset to be imbalanced. And the final ratio of 0 and 1 is 10:1.
 
 ## Process of data analysis:
 1. Text data processing.
